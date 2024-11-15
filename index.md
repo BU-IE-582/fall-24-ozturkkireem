@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Here is [HW1](https://bu-ie-582.github.io/fall-24-ozturkkireem/files/hw1.html) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
